@@ -1,0 +1,2 @@
+Enter the size of the queue: Enter elements to enqueue (-1 to stop):
+1 4 5 6 7 
